@@ -10,5 +10,16 @@
 // Color system
 //
 
-$primary: #7C008C;
+$blue:          #4964DD;    // royal blue light
+$grey:          #595457;    // davys grey
+$ivory:         #F6F7EB;    // ivory
+$red:           #9E1946;    // big dip o ruby
+$orange:        #E94F37;    // cinnabar
+
+$primary:       $red;
+$secondary:     $orange;
+$light:         $ivory;
+$dark:          $grey;
+$body-bg:       $light;
+$body-color:    $dark;
 
